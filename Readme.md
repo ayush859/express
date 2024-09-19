@@ -6,17 +6,17 @@
 
 ## Table of contents
 
-* [Installation](#Installation)
-* [Features](#Features)
-* [Docs & Community](#docs--community)
-* [Quick Start](#Quick-Start)
-* [Running Tests](#Running-Tests)
-* [Philosophy](#Philosophy)
-* [Examples](#Examples)
-* [Contributing to Express](#Contributing)
-* [TC (Technical Committee)](#tc-technical-committee)
-* [Triagers](#triagers)
-* [License](#license)
+ * [Installation](#Installation)
+ * [Features](#Features)
+ * [Docs & Community](#docs--community)
+ * [Quick Start](#Quick-Start)
+ * [Running Tests](#Running-Tests)
+ * [Philosophy](#Philosophy)
+ * [Examples](#Examples)
+ * [Contributing to Express](#Contributing)
+ * [TC (Technical Committee)](#tc-technical-committee)
+ * [Triagers](#triagers)
+ * [License](#license)
 
 
 [![NPM Version][npm-version-image]][npm-url]
